@@ -6,11 +6,12 @@ namespace ExampleBuilder{
             _criptografiaBuilderBase = criptografiaBuilderBase;
         }
 
-        public void descriptografar(string texto){
+        public CriptografiaCreator descriptografar(string texto){
             _criptografiaBuilderBase.descriptografar(texto);
+            return this;
         }
 
-        public string TextoDecifradoToString(){
+        public string ToConvertidoString(){
             return _criptografiaBuilderBase.TextoDecifradoToString();
         }
     }

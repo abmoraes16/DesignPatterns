@@ -9,7 +9,7 @@ namespace ExampleBuilder{
         public override void descriptografar(string texto)
         {
             //... PROCESSO PARA DESCRIPTOGRAFAR ...
-            Criptografia.TextoDescriptografado = "texto: "+ texto +", de criptografia "+ Criptografia.Nome +" descriptografado"; 
+            Criptografia.TextoDescriptografado = texto + " " + Criptografia.Nome + " descriptografado"; 
         }
 
         public override string TextoDecifradoToString()
