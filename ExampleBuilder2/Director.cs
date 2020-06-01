@@ -2,7 +2,7 @@ namespace ExampleBuilder2
 {
     class Director
     {
-        public void Construir(ILabirintoBuilder builder)
+        public void Construir(LabirintoBaseBuilder builder)
         {
             builder.ConstruirPortas();
             builder.ConstruirParedes();

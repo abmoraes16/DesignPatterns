@@ -1,6 +1,6 @@
 namespace ExampleBuilder2
 {
-    class LabirintoFacilBuilder : ILabirintoBuilder
+    class LabirintoFacilBuilder : LabirintoBaseBuilder
     {
         private Labirinto _labirinto = new Labirinto();
     
