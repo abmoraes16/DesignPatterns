@@ -8,13 +8,13 @@ namespace ExampleBuilder2
         {
             Director director = new Director();
  
-            ILabirintoBuilder builderFacil = new LabirintoFacilBuilder();
+            LabirintoBaseBuilder builderFacil = new LabirintoFacilBuilder();
         
             director.Construir(builderFacil);
             Labirinto labirintoFacil = builderFacil.GetResult();
             labirintoFacil.Show();
 
-            ILabirintoBuilder builderDificil = new LabirintoDificilBuilder();
+            LabirintoBaseBuilder builderDificil = new LabirintoDificilBuilder();
 
             director.Construir(builderDificil);
             Labirinto labirintoDificil = builderDificil.GetResult();
