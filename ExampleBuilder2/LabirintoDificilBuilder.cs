@@ -4,6 +4,10 @@ namespace ExampleBuilder2
     {
         private Labirinto _labirinto = new Labirinto();
     
+        public override void DefineArea(){
+            _labirinto.Area = 280;
+        }
+        
         public override void ConstruirPortas()
         {
             _labirinto.Portas = 14;

@@ -5,6 +5,7 @@ namespace ExampleBuilder2
 {
     class Labirinto
     {
+        public double Area { get; set; }
         public int Portas { get; set; }
         public int Paredes { get; set; }
         public int Inimigos { get; set; }
@@ -12,6 +13,7 @@ namespace ExampleBuilder2
         public void Show()
         {
             Console.WriteLine("\nO Labirinto possui "
+                                +Area+"m² de área, "
                                 +Portas+" portas, "
                                 +Paredes+" paredes e "
                                 +Inimigos+" inimigos."

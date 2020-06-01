@@ -1,8 +1,12 @@
 namespace ExampleBuilder2
 {
-    class LabirintoFacilBuilder : LabirintoBaseBuilder
+    class LabirintoPadraoBuilder : LabirintoBaseBuilder
     {
         private Labirinto _labirinto = new Labirinto();
+
+        public override void DefineArea(){
+            _labirinto.Area = 200;
+        }
     
         public override void ConstruirPortas()
         {
