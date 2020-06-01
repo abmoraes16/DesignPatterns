@@ -1,0 +1,11 @@
+C:\Users\Amanda\DesignPatterns\ExampleBuilder2\bin\Debug\netcoreapp3.1\ExampleBuilder2.exe
+C:\Users\Amanda\DesignPatterns\ExampleBuilder2\bin\Debug\netcoreapp3.1\ExampleBuilder2.deps.json
+C:\Users\Amanda\DesignPatterns\ExampleBuilder2\bin\Debug\netcoreapp3.1\ExampleBuilder2.runtimeconfig.json
+C:\Users\Amanda\DesignPatterns\ExampleBuilder2\bin\Debug\netcoreapp3.1\ExampleBuilder2.runtimeconfig.dev.json
+C:\Users\Amanda\DesignPatterns\ExampleBuilder2\bin\Debug\netcoreapp3.1\ExampleBuilder2.dll
+C:\Users\Amanda\DesignPatterns\ExampleBuilder2\bin\Debug\netcoreapp3.1\ExampleBuilder2.pdb
+C:\Users\Amanda\DesignPatterns\ExampleBuilder2\obj\Debug\netcoreapp3.1\ExampleBuilder2.csprojAssemblyReference.cache
+C:\Users\Amanda\DesignPatterns\ExampleBuilder2\obj\Debug\netcoreapp3.1\ExampleBuilder2.AssemblyInfoInputs.cache
+C:\Users\Amanda\DesignPatterns\ExampleBuilder2\obj\Debug\netcoreapp3.1\ExampleBuilder2.AssemblyInfo.cs
+C:\Users\Amanda\DesignPatterns\ExampleBuilder2\obj\Debug\netcoreapp3.1\ExampleBuilder2.dll
+C:\Users\Amanda\DesignPatterns\ExampleBuilder2\obj\Debug\netcoreapp3.1\ExampleBuilder2.pdb
