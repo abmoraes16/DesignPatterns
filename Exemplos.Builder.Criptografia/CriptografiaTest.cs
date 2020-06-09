@@ -1,7 +1,7 @@
 using System;
 using Xunit;
 
-namespace CriptografiaBuilder
+namespace Exemplos.Builder.Criptografia
 {
     public class CriptografiaTest
     {

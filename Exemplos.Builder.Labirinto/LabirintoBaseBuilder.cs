@@ -1,4 +1,4 @@
-namespace LabirintoBuilder
+namespace Exemplos.Builder.Labirinto
 {
   abstract class LabirintoBaseBuilder
   {

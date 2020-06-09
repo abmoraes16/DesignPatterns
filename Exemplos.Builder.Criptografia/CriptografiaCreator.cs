@@ -1,4 +1,4 @@
-namespace CriptografiaBuilder{
+namespace Exemplos.Builder.Criptografia{
     public class CriptografiaCreator
     {
         private CriptografiaBuilderBase _criptografiaBuilderBase;

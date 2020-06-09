@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace CriptografiaBuilder
+namespace Exemplos.Builder.Criptografia
 {
     class Program
     {

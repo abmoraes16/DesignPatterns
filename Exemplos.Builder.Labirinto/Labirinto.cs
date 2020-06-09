@@ -1,7 +1,7 @@
 using System;
 using System.Collections.Generic;
 
-namespace LabirintoBuilder
+namespace Exemplos.Builder.Labirinto
 {
     class Labirinto
     {

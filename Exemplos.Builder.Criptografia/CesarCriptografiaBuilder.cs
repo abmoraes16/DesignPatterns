@@ -1,4 +1,4 @@
-namespace CriptografiaBuilder{
+namespace Exemplos.Builder.Criptografia{
     public class CesarCriptografiaBuilder : CriptografiaBuilderBase{
         public CesarCriptografiaBuilder(){
             inicializaCriptografia();

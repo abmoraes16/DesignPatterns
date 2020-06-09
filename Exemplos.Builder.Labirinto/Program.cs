@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace LabirintoBuilder
+namespace Exemplos.Builder.Labirinto
 {
     class Program
     {
